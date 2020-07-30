@@ -1,6 +1,6 @@
 ### Don't believe my word, just dig the code. 
 
-Follow my daily errors at https://medium.com/@ppython
+Follow my daily errors at https://medium.com/@romanticdevil.jimmy
 
 See my piece of work at https://rahmatramadhan.com
 
