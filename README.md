@@ -1,10 +1,10 @@
 ### Don't believe my word, just dig the code. 
 
-Follow my daily errors at https://medium.com/@romanticdevil.jimmy
+Follow my daily errors at https://medium.com/@rahmat.ramadhan
 
 See my piece of work at https://rahmatramadhan.com
 
-and Shoot me an emai at romanticdevil.jimmy@gmail.com  
+and Shoot me an emai at rahmat.ramadhaniriyanto@gmail.com  
 
 <!--
 **mazipan/mazipan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
