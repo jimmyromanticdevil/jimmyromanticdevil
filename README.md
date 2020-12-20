@@ -1,6 +1,6 @@
 ### Don't believe my word, just dig the code. 
 
-Follow my daily errors at https://medium.com/@rahmat.ramadhan
+Follow my daily errors at https://rahmat-ramadhan.medium.com/
 
 See my piece of work at https://rahmatramadhan.com
 
